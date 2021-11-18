@@ -10,5 +10,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * Personalidades multiples y serios problemas que aceleran mi crecimiento en el trabajo en equipo
 * Creado por el increible platzi team
 * Incluye ejemplos en Windows, Linux y Mac
- 
+* Disponible para todas las edades 
+
 Parece **chiste**, pero es anecdota...
