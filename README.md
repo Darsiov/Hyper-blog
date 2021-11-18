@@ -8,5 +8,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas practicas como este readme.md
 * Personalidades multiples y serios problemas que aceleran mi crecimiento en el trabajo en equipo
+* Creado por el increible platzi team
 
 Parece **chiste**, pero es anecdota...
