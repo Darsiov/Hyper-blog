@@ -1,7 +1,7 @@
 # Hyper-blog 💚
 Un blog increible para el curso de Git y Github de Platzi 
 > El curso de git y git hub de Platzi, bastante util la verdad, una herramienta que cualquier integrante de la industria de la tecnología (osea todos los que estan leyendo este readme.md) necesitan en su arsenal de conocimiento.
->-@Darsiov
+>- @Darsiov
 
 ## Esta es la evidencia de que he visto y practicado:
 * Comandos de git
